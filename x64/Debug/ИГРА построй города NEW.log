@@ -1,0 +1,5 @@
+﻿  FileName.cpp
+C:\Users\Top2\Desktop\Кирилл Патент\ИГРА построй города NEW\FileName.cpp(235,11): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
+C:\Users\Top2\Desktop\Кирилл Патент\ИГРА построй города NEW\FileName.cpp(496,13): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\Top2\Desktop\Кирилл Патент\ИГРА построй города NEW\FileName.cpp(551,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  ИГРА построй города NEW.vcxproj -> C:\Users\Top2\Desktop\Кирилл Патент\ИГРА построй города NEW\x64\Debug\ИГРА построй города NEW.exe

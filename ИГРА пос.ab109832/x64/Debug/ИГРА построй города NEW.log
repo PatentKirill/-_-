@@ -1,0 +1,4 @@
+﻿  FileName.cpp
+C:\Users\User\Desktop\Кирилл Патент\ИГРА построй города NEW\FileName.cpp(422,13): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\User\Desktop\Кирилл Патент\ИГРА построй города NEW\FileName.cpp(494,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  ИГРА построй города NEW.vcxproj -> C:\Users\User\Desktop\Кирилл Патент\ИГРА построй города NEW\x64\Debug\ИГРА построй города NEW.exe
